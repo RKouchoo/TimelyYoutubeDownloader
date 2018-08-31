@@ -1,0 +1,7 @@
+!!python/object:memoryStore.simpleData
+memChannels: https://www.youtube.com/channel/UCF_fDSgPpBQuh1MsUTgIARQ/videos
+memNames: ChampChong
+memVideos: ['/watch?v=M4ZoCHID9GI', '/watch?v=XR7Ev14vUh8', '/watch?v=eXDU9um19HM',
+  '/watch?v=qFLhGq0060w', '/watch?v=JZjAg6fK-BQ', '/watch?v=diW6jXhLE0E', '/watch?v=lysp-BVbf9Q',
+  '/watch?v=hTaihFTiXgc', '/watch?v=uxBganA7KnY', '/watch?v=SsRXJnzas2s', '/watch?v=yhNQAAMCKms',
+  '/watch?v=K5xERXE7pxI']

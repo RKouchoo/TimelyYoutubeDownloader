@@ -1,0 +1,8 @@
+!!python/object:memoryStore.simpleData
+memChannels: https://www.youtube.com/channel/UC0sytTpk1adR_cfjHhiJ08Q/videos
+memNames: NASA Stennis
+memVideos: ['/watch?v=kxjL6fiRq2A', '/watch?v=4R9tD2Al-UI', '/watch?v=Mrmr3inYEyY',
+  '/watch?v=ZUuvxUoyvA8', '/watch?v=MvRHo8CyDNc', '/watch?v=-2hthSFqZ5U', '/watch?v=illnMkGX5mU',
+  '/watch?v=7UsidPVwuNw', '/watch?v=9-Q536qKels', '/watch?v=flD1Z-2Ooqk', '/watch?v=LEo_z6x8x-U',
+  '/watch?v=uCtOfb1z8Ns', '/watch?v=MXroQuVSTNY', '/watch?v=BmBEwlGCwPI', '/watch?v=pVZQ9SeOuCQ',
+  '/watch?v=YZtNNUyXc94']

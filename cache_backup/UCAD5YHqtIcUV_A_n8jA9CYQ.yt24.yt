@@ -1,0 +1,6 @@
+!!python/object:memoryStore.simpleData
+memChannels: https://www.youtube.com/channel/UCAD5YHqtIcUV_A_n8jA9CYQ/videos
+memNames: The Infographics Show
+memVideos: ['/watch?v=UhsmkaekuBg', '/watch?v=opUEq-9rD-U', '/watch?v=X7k7IlEl3no',
+  '/watch?v=cuQBmfyvrv8', '/watch?v=ndqOW8khBGE', '/watch?v=ysMNJ5ZYKSQ', '/watch?v=riWfQd-fJMw',
+  '/watch?v=MMx9E27H3y4', '/watch?v=ykYKiyW5Q4w']

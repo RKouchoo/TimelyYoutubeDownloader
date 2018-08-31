@@ -1,0 +1,5 @@
+!!python/object:memoryStore.simpleData
+memChannels: https://www.youtube.com/channel/UCV22jPVWNFKJ9JUnc2nua-w/videos
+memNames: HowToBasic
+memVideos: ['/watch?v=an2XafDI590', '/watch?v=w8E0xZXoGG8', '/watch?v=s_AXvds8rm0',
+  '/watch?v=X9zPzmK0h_k', '/watch?v=FykOwI5qvwE']

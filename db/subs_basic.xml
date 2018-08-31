@@ -1,0 +1,11 @@
+<opml version="1.1">
+<body>
+    <outline>
+    <outline text="Cody'sLab" title="Cody'sLab" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCu6mSoMNzHQiBIOCkHUa2Aw" />
+    <outline text="AndyMark Inc." title="AndyMark Inc." type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTC5NrZrWZeY8iQEs8M9lpw" />
+    <outline text="Thunder DownUnder" title="Thunder DownUnder" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCTmHDzORK3S77zVbXAlIOEg" />
+    <outline text="FirstAustralia" title="FirstAustralia" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCal7624DPridi_9iKLrAbqw" />
+    <outline text="Linus Tech Tips" title="Linus Tech Tips" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw" />
+    </outline>
+</body>
+</opml>
